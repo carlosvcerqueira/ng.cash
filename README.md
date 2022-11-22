@@ -13,7 +13,7 @@ Projeto desenvolvido por Carlos Cerqueira para o processo seletivo da NG Cash
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src=".github/preview.png" width="100%">
+  <img alt="Preview Página Principal" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
